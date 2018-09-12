@@ -1,12 +1,9 @@
-# innovativeproject-click-events-patterns
+# click-events-patterns
 
 # 1. Description
 Based on a data from WebNei application, we made analysis and built recommender system using lightfm engine.
 
-# 2. Functionality
-
-
-# 3. Technologies
+# 2. Technologies
 * API
   * Python 3
   * Flask
@@ -18,18 +15,3 @@ Based on a data from WebNei application, we made analysis and built recommender 
   * Jupyter notebook
   * Matplotlib
   * Bokeh
-
-# 4. Installation guide
-
-
-
-# 5. Contributing
-Students
-* Adam Piotrowski
-* Robert Żyłan
-
-
-Nokia Supervisors
-* Mateusz Sołtysik
-* Ewa Kaczmarek
-* Weronika Białecka
