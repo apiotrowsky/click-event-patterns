@@ -3,6 +3,8 @@
 # 1. Description
 Based on a data from WebNei application, we made analysis and built recommender system using lightfm engine.
 
+![presentation](demo.gif)
+
 # 2. Technologies
 * API
   * Python 3
